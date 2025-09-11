@@ -1,6 +1,6 @@
 # TeacherBot - JavaScript Strings Tutorial
 
-An educational JavaScript program that teaches string manipulation concepts through interactive console output.
+A simple educational JavaScript program that teaches string manipulation concepts through interactive console output.
 
 ## What it does
 
