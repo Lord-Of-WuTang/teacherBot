@@ -4,7 +4,7 @@ A simple educational JavaScript program that teaches string manipulation concept
 
 ## What it does
 
-This program demonstrates fundamental JavaScript string operations including:
+This demonstrates fundamental JavaScript string operations including:
 
 - String interpolation with template literals
 - Getting string length with the `.length` property
