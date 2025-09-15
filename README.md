@@ -6,7 +6,7 @@ A simple educational JavaScript program that teaches string manipulation concept
 
 This demonstrates fundamental JavaScript string operations including:
 
-- String interpolation with template literals
+- String interpolation with template literal
 - Getting string length with the `.length` property
 - Accessing individual characters using bracket notation
 - Finding substring positions with `.indexOf()`
